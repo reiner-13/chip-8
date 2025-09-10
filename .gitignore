@@ -1,0 +1,10 @@
+*.exe
+*.txt
+*.log
+*.test
+*.out
+
+go.sum
+
+build/**
+roms/**
